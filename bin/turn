@@ -4,4 +4,6 @@ require_relative
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
 
-puts "Welcome to Tic Tac Toe!" display_board(board) 
+puts "Welcome to Tic Tac Toe!" 
+display_board(board) 
+end 
